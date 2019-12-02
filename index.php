@@ -41,7 +41,17 @@
           <ul class="navbar-nav ml-auto">
             <li class="nav-item"><a href="index.html" class="nav-link">Create Events</a></li>
             <li class="nav-item"><a href="about.html" class="nav-link">Order Tickets</a></li>
-            <li class="nav-item signin"><a href="login.php" class="nav-link">Sign In</a></li>
+            <?php
+          session_start();
+          if (isset($_SESSION['user_system_name'])) {
+            $nama = $_SESSION['user_system_name'];
+            echo "<div class=\"nav-item\"><a class=\"nav-link\" style=\"font-weight: bold;\">$nama</a></div>";
+            echo "<div class=\"nav-item\"style=\"background: #FF7E67 ;border-radius: 5px\"><a href=\"logout.php\" class=\"nav-link\" style=\"color:#ffffff;\">Logout</a></div>";
+          } else {
+            echo "<li class=\"nav-item signin\"><a href=\"register.php\" class=\"nav-link\" style=\"font-weight: bold;\">Register</a></li>";
+            echo "<li class=\"nav-item signin\"><a href=\"login.php\" class=\"nav-link\" style=\"font-weight: bold; color: #FF7E67;\">Sign In</a></li>";
+          }
+          ?>
           </ul>
         </div>
       </div>
