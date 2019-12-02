@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Register to Mamkuy</title>
+	<title>E-bud Registration Portal</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
@@ -34,7 +34,7 @@
 			<div class="wrap-login100">
 				<div class="login100-form validate-form">
 					<span class="login100-form-title p-b-43">
-						Register to Mamkuy
+						Register to E-bud
 					</span>
 					<form action="register_process.php" method="post">
 						<div class="wrap-input100 validate-input">
@@ -77,7 +77,7 @@
 					</form>
 				</div>
 
-				<div class="login100-more" style="background-image: url('images/image_6.jpg');">
+				<div class="login100-more" style="background-image: url('images/culture-1.jpg');">
 				</div>
 			</div>
 		</div>
