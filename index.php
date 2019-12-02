@@ -41,7 +41,7 @@
           <ul class="navbar-nav ml-auto">
             <li class="nav-item"><a href="index.html" class="nav-link">Create Events</a></li>
             <li class="nav-item"><a href="about.html" class="nav-link">Order Tickets</a></li>
-            <li class="nav-item signin"><a href="contact.html" class="nav-link">Sign In</a></li>
+            <li class="nav-item signin"><a href="login.php" class="nav-link">Sign In</a></li>
           </ul>
         </div>
       </div>
@@ -49,7 +49,7 @@
     <!-- END nav -->
     
     <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image: url('images/landing-img.jpg');">
+      <div class="slider-item" style="background-image: url('images/culture-4.jpg');">
         <div class="overlay"></div>
         <div class="container">
           <div class="row slider-text align-items-center justify-content-left text-left">
