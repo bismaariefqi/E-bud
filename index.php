@@ -140,7 +140,7 @@
                 </a>
                 <div class="text p-4">
                 <div style="color: #FF7E67; font-weight: bold">July 7, 2018</div>
-                  <h3 class="heading"><a href="#">International Bali Show Pendet Dance Revolution 4.0</a></h3>
+                  <h3 class="heading"><a href="#popup1">International Bali Show Pendet Dance Revolution 4.0</a></h3>
                   <p class="clearfix">
                   Graha Cakrawala, UM, Malang
                   </p>
@@ -338,7 +338,23 @@ Action" Diesnat UB</a></h3>
       </div>
     </footer>
     
-  
+      
+    <div id="popup1" class="event-overlay">
+	    <div class="popup">
+        <div class="block-20" style="background-image: url('images/culture-2.jpg');">
+        </div>
+        <div style="color: #FF7E67; font-weight: bold; margin-top: 10px">July 7, 2018</div>
+		    <h3 class="heading">International Bali Show Kecak Dance 4.0</h3>
+        <a class="close" href="#">&times;</a>
+        <p>
+          Harris Hotel, Sekarpuro, Malang
+        </p>
+        <div style="font-size: 12pt; margin-top: 5pt; font-weight:bold;">Tiket tersedia: 50</div>
+		    <div class="content" style="margin-top: 20px;">
+		  	  Thank to pop me out of that button, but now i'm done so you can close this window.
+        </div>
+	    </div>
+    </div>
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
