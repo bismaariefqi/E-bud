@@ -31,7 +31,7 @@
   </head>
   <body>
     
-    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-filter ftco-navbar-light" id="ftco-navbar">
       <div class="container">
         <a class="navbar-brand" href="index.php"><span style="color:#42B883;">E</span> - bud</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
@@ -63,73 +63,12 @@
       </div>
     </nav>
     <!-- END nav -->
-    
-    <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image: url('images/culture-4.jpg');">
-        <div class="overlay"></div>
-        <div class="container">
-          <div class="row slider-text align-items-center justify-content-left text-left">
-            <div class="col-md-10 col-sm-12 ftco-animate">
-              <h1 class="mb-3">Visit Nearby<br>Cultural Events</h1>
-              <p><a href="reservation.html" class="btn btn-primary px-5 py-3">Surf Now</a></p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- END slider -->
-
-   		<div class="section-center">
-			<div class="container">
-				<div class="row">
-					<div class="booking-form col-md-12 reservation pt-2 px-3">
-						<form>
-							<div class="row no-margin">
-								<div class="col-md-3">
-									<div class="form-group">
-										<span class="form-label">Event place</span>
-										<input class="form-control" type="text" placeholder="Malang, Jawa Timur...">
-									</div>
-								</div>
-								<div class="col-md-6">
-									<div class="row no-margin">
-										<div class="col-md-6">
-											<div class="form-group">
-												<span class="form-label">Event date</span>
-												<input class="form-control" type="date" required>
-											</div>
-										</div>
-										<div class="col-md-6">
-											<div class="form-group">
-												<span class="form-label">Event Category</span>
-												<select class="form-control">
-													<option>Cultural</option>
-													<option>Traditional Dance</option>
-													<option>Folk Song</option>
-													<option>Poem</option><option>Exhibition</option>
-												</select>
-												<span class="select-arrow"></span>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-3">
-									<div class="form-btn">
-										<button class="submit-btn">Search Events</button>
-									</div>
-								</div>
-							</div>
-						</form>
-					</div>
-				</div>
-			</div>
-		</div>
 
     <section class="ftco-section">
       <div class="container">
         <div class="row mb-4">
-          <div class="col-md-7 heading-section ftco-animate">
-            <h2>Newest Events</h2>
+          <div class="col-md-7 heading-section ftco-animate filter-result">
+            <h2>Blabla Events</h2>
           </div>
         </div>
         <div class="row ftco-animate">
@@ -140,7 +79,7 @@
                 </a>
                 <div class="text p-4">
                 <div style="color: #FF7E67; font-weight: bold">July 7, 2018</div>
-                  <h3 class="heading"><a href="#">International Bali Show Pendet Dance Revolution 4.0</a></h3>
+                  <h3 class="heading event-title"><a href="#">International Bali Show Pendet Dance Revolution 4.0</a></h3>
                   <p class="clearfix">
                   Graha Cakrawala, UM, Malang
                   </p>
@@ -194,88 +133,6 @@ Action" Diesnat UB</a></h3>
                 <div class="text p-4">
                 <div style="color: #FF7E67; font-weight: bold">July 7, 2018</div>
                   <h3 class="heading"><a href="#">International Bali Show Kecak Dance 4.0</a></h3>
-                  <p class="clearfix">
-                  Harris Hotel, Sekarpuro, Malang
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-   <section class="ftco-section">
-      <div class="container">
-        <div class="row mb-4">
-          <div class="col-md-7 heading-section ftco-animate">
-            <h2>Weekly Events</h2>
-          </div>
-        </div>
-        <div class="row ftco-animate">
-          <div class="carousel1 owl-carousel ftco-owl">
-            <div class="item">
-              <div class="blog-entry" data-aos-delay="200">
-                <a href="blog-single.html" class="block-20" style="background-image: url('images/culture-2.jpg');">
-                </a>
-                <div class="text p-4">
-                <div style="color: #FF7E67; font-weight: bold">July 7, 2018</div>
-                  <h3 class="heading"><a href="#">International Bali Show Kecak Dance 4.0</a></h3>
-                  <p class="clearfix">
-                  Harris Hotel, Sekarpuro, Malang
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="blog-entry" data-aos-delay="200">
-                <a href="blog-single.html" class="block-20" style="background-image: url('images/culture-4.jpg');">
-                </a>
-                <div class="text p-4">
-                <div style="color: #FF7E67; font-weight: bold">July 7, 2018</div>
-                  <h3 class="heading"><a href="#">"Reog Bonorogo In 
-Action" Diesnat UB</a></h3>
-                  <p class="clearfix">
-                  Harris Hotel, Sekarpuro, Malang
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="blog-entry">
-                <a href="blog-single.html" class="block-20" style="background-image: url('images/culture-1.jpg');">
-                </a>
-                <div class="text p-4">
-                <div style="color: #FF7E67; font-weight: bold">July 7, 2018</div>
-                  <h3 class="heading"><a href="#">International Bali Show Pendet Dance Revolution 4.0</a></h3>
-                  <p class="clearfix">
-                  Graha Cakrawala, UM, Malang
-                  </p>
-                </div>
-              </div>
-            </div>
-        <div class="item">
-              <div class="blog-entry" data-aos-delay="200">
-                <a href="blog-single.html" class="block-20" style="background-image: url('images/culture-4.jpg');">
-                </a>
-                <div class="text p-4">
-                <div style="color: #FF7E67; font-weight: bold">July 7, 2018</div>
-                  <h3 class="heading"><a href="#">"Reog Bonorogo In 
-Action" Diesnat UB</a></h3>
-                  <p class="clearfix">
-                  Harris Hotel, Sekarpuro, Malang
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="blog-entry" data-aos-delay="200">
-                <a href="blog-single.html" class="block-20" style="background-image: url('images/culture-4.jpg');">
-                </a>
-                <div class="text p-4">
-                <div style="color: #FF7E67; font-weight: bold">July 7, 2018</div>
-                  <h3 class="heading"><a href="#">"Reog Bonorogo In 
-Action" Diesnat UB</a></h3>
                   <p class="clearfix">
                   Harris Hotel, Sekarpuro, Malang
                   </p>

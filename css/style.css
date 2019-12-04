@@ -7296,6 +7296,20 @@ h1, h2, h3, h4, h5,
   right: 0;
   z-index: 3;
   top: 10px; }
+
+.filter-result{
+  margin-top: 100px;
+}
+
+.ftco-navbar-filter{
+  background: #35495E !important;
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 3;
+  top: 10px; 
+}
+  
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
       background: #404044 !important;
@@ -8108,7 +8122,7 @@ textarea.form-control {
 
 .ftco-footer-social li {
   list-style: none;
-  margin: 0 10px 0 0;
+  margin: 30px 10px 0 0;
   display: inline-block; }
   .ftco-footer-social li a {
     height: 50px;
