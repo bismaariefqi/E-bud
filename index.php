@@ -343,7 +343,7 @@ Action" Diesnat UB</a></h3>
 	    <div class="popup">
         <div class="block-20" style="background-image: url('images/culture-2.jpg');">
         </div>
-        <div style="color: #FF7E67; font-weight: bold; margin-top: 10px">July 7, 2018</div>
+        <div style="color: #FF7E67; font-weight: bold; margin-top: 30px">July 7, 2018</div>
 		    <h3 class="heading">International Bali Show Kecak Dance 4.0</h3>
         <a class="close" href="#">&times;</a>
         <p>
@@ -351,7 +351,7 @@ Action" Diesnat UB</a></h3>
         </p>
         <div style="font-size: 12pt; margin-top: 5pt; font-weight:bold;">Tiket tersedia: 50</div>
 		    <div class="content" style="margin-top: 20px;">
-		  	  Thank to pop me out of that button, but now i'm done so you can close this window.
+		  	  Event ini diselenggarakan secara bertahap tanpa adanya kehilangan yang abadi. Namun tidak semua orang mengetahui apa alasannya, sehingga anda harus menentukan siapa saja sih Rasa Sayange yang setia.
         </div>
 	    </div>
     </div>
